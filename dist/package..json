@@ -1,0 +1,10 @@
+{
+  "name": "table-frontend",
+  "version": "0.0.1",
+  "description": "Heroku App",
+  "author": "Mikhail Iontsev",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
